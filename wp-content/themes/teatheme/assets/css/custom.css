@@ -1,0 +1,9 @@
+
+.nav-bar{
+    display: flex;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    background-color: aqua;
+}
+
